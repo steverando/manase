@@ -71,7 +71,7 @@ include_once "header.php";
     </div>
 
 </main>
-<div class="container">
+<div class="container-fluid">
     <div class="row">
         <div class="col-md-6">
             <div class="carousel slide" data-ride="carousel" id="carouselExampleControls">
