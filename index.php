@@ -22,11 +22,11 @@ include_once "header.php";
         <div class="full-bg-img">
             <div class="mask rgba-purple-light flex-center">
                 <div class="container-fluid text-left white-text wow fadeInUp">
-                    <h1 style="color: white; font-size:65px; font-family:serif;"><b>Manase Motor Spares</b></h1>
+                    <h1 style="color:#4285f4; font-size:65px; font-family:serif;"><b>Manase Motor Spares</b></h1>
                     <br>
                     <h1 style="margin-left: 30px; font-size:65px;">&</h1>
                     <br>
-                    <h1 style="color: white; font-size:65px; font-family:serif;"><b>Repair</b></h1>
+                    <h1 style="color: #4285f4; font-size:65px; font-family:serif;"><b>Repair</b></h1>
                 </div>
             </div>
         </div>
@@ -80,8 +80,6 @@ include_once "header.php";
                     <div class="carousel-item"><img alt="auto" class="d-block w-100" src="one.jpg"></div>
                     <div class="carousel-item"><img alt="auto" class="d-block w-100" src="one1.jpg"></div>
                     <div class="carousel-item"><img alt="auto" class="d-block w-100" src="one2.jpg"></div>
-                    <div class="carousel-item"><img alt="auto" class="d-block w-100" src="/var/bootstrap/kissclipart-2015-mustang-gt350r-clipart-2016-ford-shelby-gt350-63bf876523c621a4.png"></div>
-                    <div class="carousel-item"><img alt="auto" class="d-block w-100" src="/var/bootstrap/kissclipart-mustang-png-clipart-2018-ford-mustang-shelby-musta-dcce2b58d6a73353.png"></div>
                 </div><a class="carousel-control-prev" data-slide="prev" href="#carouselExampleControls" role="button"><span aria-hidden="true" class="carousel-control-prev-icon"></span> <span class="sr-only">Previous</span></a> <a class="carousel-control-next" data-slide="next" href="#carouselExampleControls" role="button"><span aria-hidden="true" class="carousel-control-next-icon"></span> <span class="sr-only">Next</span></a>
             </div>
         </div>
@@ -92,8 +90,6 @@ include_once "header.php";
                     <div class="carousel-item"><img alt="auto" class="d-block w-100" src="one1.jpg"></div>
                     <div class="carousel-item"><img alt="auto" class="d-block w-100" src="one.jpg"></div>
                     <div class="carousel-item"><img alt="auto" class="d-block w-100" src="bg.jpg"></div>
-                    <div class="carousel-item"><img alt="auto" class="d-block w-100" src="/var/bootstrap/kissclipart-2015-mustang-gt350r-clipart-2016-ford-shelby-gt350-63bf876523c621a4.png"></div>
-                    <div class="carousel-item"><img alt="auto" class="d-block w-100" src="/var/bootstrap/kissclipart-mustang-png-clipart-2018-ford-mustang-shelby-musta-dcce2b58d6a73353.png"></div>
                 </div><a class="carousel-control-prev" data-slide="prev" href="#carouselExampleControls" role="button"><span aria-hidden="true" class="carousel-control-prev-icon"></span> <span class="sr-only">Previous</span></a> <a class="carousel-control-next" data-slide="next" href="#carouselExampleControls" role="button"><span aria-hidden="true" class="carousel-control-next-icon"></span> <span class="sr-only">Next</span></a>
             </div>
         </div>
