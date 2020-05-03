@@ -41,8 +41,8 @@ include_once "header.php";
                 <br>
                 <br>
                 <br>
-                <p class="h4"><b style="color:red; font-size:35px;">Best deals and guniune parts;</b><br>
-                    Gives you the best deals in all types of Motor BikesS,<br>
+                <p class="h4"><b style="color:red; font-size:35px;">Where quality service is assured, <br>gunuine parts readily available;</b><br>
+                    Gives you the best deals in all types of Motor Bikes,<br>
                     from;</p>
                 <ul class="align-middle h5">
                     <li>Ranger</li>
@@ -71,7 +71,7 @@ include_once "header.php";
     </div>
 
 </main>
-<div class="container-fluid">
+<div class="container-fluid" style="background:#4285f4;">
     <div class="row">
         <div class="col-md-6">
             <div class="carousel slide" data-ride="carousel" id="carouselExampleControls">

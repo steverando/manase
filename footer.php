@@ -58,7 +58,11 @@
                 <!-- Content -->
                 <h6 class="text-uppercase font-weight-bold">Manase Spares</h6>
                 <!-- <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 100px;"> -->
-                <p>Visit us or contact us for more information:</p>
+                <p>For more information:<br>
+                    Visit us<br>
+                    OR<br>
+                    Contact us.
+                </p>
 
             </div>
 
@@ -71,9 +75,9 @@
                 <h6 class="text-uppercase font-weight-bold">Contact</h6>
                 <!-- <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;"> -->
                 <p>
-                    <i class="fas fa-home mr-3"></i> Ruiru, Homeland near st.Linda Highschool US</p>
+                    <i class="fas fa-home mr-3"></i> Ruiru, Homeland near st.Linda Highschool</p>
                 <p>
-                    <i class="fas fa-envelope mr-3"></i> info@example.com</p>
+                    <i class="fas fa-envelope mr-3"></i> gatu@gmail.com</p>
                 <p>
                     <i class="fas fa-phone mr-3"></i> +254 713 508 889</p>
 
